@@ -1,12 +1,7 @@
 Il mio file colab realtivo a questo progetto si trova a questo link:
 ###link
-https://colab.research.google.com/drive/1YoqoDsNkraBLbYbvUPHMB1nsvrF00i4q?usp=sharing
+
+https://colab.research.google.com/drive/1wKaRxNH6MHz4fcvxenMEGHVxEe9lvAip#scrollTo=ultfxkR0FN6z
 
 
 
-
-
-
-Prova della nuova rete da youtube
-
-4bande-15epoche: best iou_mean     best accuracy: bestepoch: 
