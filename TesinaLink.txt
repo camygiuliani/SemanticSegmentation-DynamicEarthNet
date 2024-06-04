@@ -1,7 +1,9 @@
 Il mio file colab realtivo a questo progetto si trova a questo link:
 ###link
 
-https://colab.research.google.com/drive/1wKaRxNH6MHz4fcvxenMEGHVxEe9lvAip#scrollTo=ultfxkR0FN6z
+NO:https://colab.research.google.com/drive/1wKaRxNH6MHz4fcvxenMEGHVxEe9lvAip#scrollTo=ultfxkR0FN6z
+
+https://colab.research.google.com/drive/1wKaRxNH6MHz4fcvxenMEGHVxEe9lvAip#scrollTo=DdW7fdBCVIQy
 
 
 
